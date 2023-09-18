@@ -133,4 +133,19 @@ class MainActivity : AppCompatActivity() {
     }
 
 
+    /*
+
+    NewsApp
+
+    ahmed "team leader"  '-----> homeScreen
+
+    ali "se dev."          -----> mainScreen
+
+    mohamed "fresh dev. "   -----> swapScreen
+
+
+
+     */
+
+
 }
